@@ -1,0 +1,23 @@
+#q:hover {background-color: rgb(139, 231, 219);}
+#q {background-color: black;
+text-align: center;}
+h2{color: cadetblue;}
+#w :hover{color: black;}
+#w {color: cornflowerblue;}
+#budi{background-color: rgb(96, 98, 240);}
+#but{border-radius: 15px;
+margin-left: 910px;
+}
+#but:hover{background-color: yellow;
+    transform: scale(2);
+color: violet;}
+
+#a{background-color: powderblue;}
+
+.border{border: 1px solid black;}
+.container{padding-left: 100px 100px ;
+margin-left: 300px;}
+
+div.container {
+    margin-top: 150px;
+}
